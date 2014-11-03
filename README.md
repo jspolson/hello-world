@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Hi there,  I am very new to this stuff but am excited to learn!
